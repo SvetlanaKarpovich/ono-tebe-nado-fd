@@ -133,9 +133,6 @@
   text-align: end;
 }
 
-.letter-spacing-extended {
-}
-
 .no-letter-spacing {
   letter-spacing: normal;
 }
@@ -363,10 +360,6 @@
   color: #000000;
 }
 
-.footer__menu-link {
-  
-}
-
 .footer__menu-link_active {
   text-decoration: none;
 }
@@ -386,8 +379,4 @@
 
 .footer__social-link {
   display: block;
-}
-
-.footer__social-icon {
-
 }
